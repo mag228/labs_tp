@@ -1,0 +1,11 @@
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\bin\Debug\netcoreapp3.1\Lab_2_tp.exe
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\bin\Debug\netcoreapp3.1\Lab_2_tp.deps.json
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\bin\Debug\netcoreapp3.1\Lab_2_tp.runtimeconfig.json
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\bin\Debug\netcoreapp3.1\Lab_2_tp.runtimeconfig.dev.json
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\bin\Debug\netcoreapp3.1\Lab_2_tp.dll
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\bin\Debug\netcoreapp3.1\Lab_2_tp.pdb
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\obj\Debug\netcoreapp3.1\Lab_2_tp.csprojAssemblyReference.cache
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\obj\Debug\netcoreapp3.1\Lab_2_tp.AssemblyInfoInputs.cache
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\obj\Debug\netcoreapp3.1\Lab_2_tp.AssemblyInfo.cs
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\obj\Debug\netcoreapp3.1\Lab_2_tp.dll
+C:\Users\volos\source\repos\Lab_2_tp\Lab_2_tp\obj\Debug\netcoreapp3.1\Lab_2_tp.pdb
