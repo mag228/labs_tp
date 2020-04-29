@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\volos\\source\\repos\\Lab_2_tp\\Lab_2_tp\\Lab_2_tp.csproj",
+      "projectUniqueName": "E:\\work\\source\\repos\\tp\\Lab_2_tp\\Lab_2_tp\\Lab_2_tp.csproj",
       "projectName": "Lab_2_tp",
-      "projectPath": "C:\\Users\\volos\\source\\repos\\Lab_2_tp\\Lab_2_tp\\Lab_2_tp.csproj",
+      "projectPath": "E:\\work\\source\\repos\\tp\\Lab_2_tp\\Lab_2_tp\\Lab_2_tp.csproj",
       "packagesPath": "C:\\Users\\volos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\volos\\source\\repos\\Lab_2_tp\\Lab_2_tp\\obj\\",
+      "outputPath": "E:\\work\\source\\repos\\tp\\Lab_2_tp\\Lab_2_tp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\volos\\AppData\\Roaming\\NuGet\\NuGet.Config",

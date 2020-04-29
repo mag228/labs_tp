@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+#My
+*.log
+*.idb
+*.pdb
+*.tlog
+*.ilk
+*.pdb
+*.exp
+
