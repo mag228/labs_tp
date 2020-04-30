@@ -1,6 +1,0 @@
-﻿  Source.cpp
-E:\work\source\repos\laba_tp\Client\Source.cpp(30,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-E:\work\source\repos\laba_tp\Client\Source.cpp(37,29): warning C4244: аргумент: преобразование "time_t" в "const unsigned int", возможна потеря данных
-E:\work\source\repos\laba_tp\Client\Source.cpp(46,30): warning C4244: аргумент: преобразование "time_t" в "const unsigned int", возможна потеря данных
-E:\work\source\repos\laba_tp\Client\Source.cpp(39,7): warning C4101: f: неиспользованная локальная переменная
-  Client.vcxproj -> E:\work\source\repos\laba_tp\Debug\Client.exe

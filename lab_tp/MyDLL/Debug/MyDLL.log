@@ -1,6 +1,0 @@
-﻿  pch.cpp
-  dllmain.cpp
-  my_dll.cpp
-  Создание кода...
-     Создается библиотека E:\work\source\repos\laba_tp\Debug\MyDLL.lib и объект E:\work\source\repos\laba_tp\Debug\MyDLL.exp
-  MyDLL.vcxproj -> E:\work\source\repos\laba_tp\Debug\MyDLL.dll
